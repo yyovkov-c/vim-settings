@@ -30,7 +30,7 @@ Consider deletion of the directory */tmp/powerline_fonts*.
 It is supposed vundle to be already installed, however this is a single command, that can be read from the project github page, so I am adding this command here in order to minimize ones browsing different pages in internet. The command is:
 ```
 $ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
-$ vim +InstallPlugin +qall
+$ vim +PluginInstall +qall
 ```
 
 ### CLI Configuration
